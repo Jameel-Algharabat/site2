@@ -11159,7 +11159,7 @@ p {
 }
 
 .service-card .body .subtitle {
-  position: absolute;
+  /*position: absolute;*/
   bottom: -100%;
   opacity: 0;
   visibility: hidden;
