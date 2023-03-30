@@ -11169,7 +11169,7 @@ p {
 
 @media (prefers-reduced-motion: reduce) {
   .service-card .body .subtitle {
-    -webkit-transition: none;
+    /*-webkit-transition: none;*/
     transition: none;
   }
 }
