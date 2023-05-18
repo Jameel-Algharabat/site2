@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45e88123-0a00-4cc0-aab0-57dfeacbe711" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/imgs/Crown3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/imgs/crown4-removebg-preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/imgs/location.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/imgs/message.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/imgs/phone.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/imgs/avatar2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/imgs/avatar3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/imgs/folio-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/imgs/folio-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/imgs/folio-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/imgs/man.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/meyawo.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/meyawo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/meyawo.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/meyawo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +59,7 @@
       <workItem from="1682771780808" duration="482000" />
       <workItem from="1683825021863" duration="1079000" />
       <workItem from="1684247643422" duration="3023000" />
-      <workItem from="1684403959030" duration="4129000" />
+      <workItem from="1684403959030" duration="11975000" />
     </task>
     <servers />
   </component>
