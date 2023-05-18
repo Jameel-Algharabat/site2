@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45e88123-0a00-4cc0-aab0-57dfeacbe711" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/imgs/location.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/imgs/message.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/imgs/phone.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/meyawo.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/meyawo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/meyawo.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/meyawo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="45e88123-0a00-4cc0-aab0-57dfeacbe711" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +51,7 @@
       <workItem from="1682771780808" duration="482000" />
       <workItem from="1683825021863" duration="1079000" />
       <workItem from="1684247643422" duration="3023000" />
-      <workItem from="1684403959030" duration="11975000" />
+      <workItem from="1684403959030" duration="12358000" />
     </task>
     <servers />
   </component>
