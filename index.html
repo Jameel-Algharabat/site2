@@ -33,6 +33,7 @@
 
 
 
+
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="40" >
 
@@ -75,6 +76,8 @@
                 <span class="down">I Am Jameel Gharabat </span>
             </h1>
             <p class="header-subtitle">FULL-STACK DEVELOPER</p>
+
+
 
             <a class="btn btn-primary" href="https://github.com/Jameel-Algharabat" target="_blank">Visit My Works</a>
         </div>              
@@ -500,7 +503,7 @@
             </svg> -->
         </div>
         <footer class="footer container">
-            <p class="mb-0">Jameel Gharabat <script>document.write(new Date().getFullYear())</script>  |<img src="assets/imgs/crown4-removebg-preview.png" width="30" ></p>
+            <p class="mb-0">Jameel Gharabat <script>document.write(new Date().getFullYear())</script> | <span class="mb-0">Viewers: <span id="visitorCount">Loading...</span></span> | <img src="assets/imgs/crown4-removebg-preview.png" width="30" ></p>
             <div class="social-links text-right m-auto ml-sm-auto">
                 <a href="https://github.com/Jameel-Algharabat" target="_blank" class="link"><i class="ti-github"></i></a>
                 <a href="https://www.linkedin.com/in/jameel-gharbat/" class="link" target="_blank"><i class="ti-linkedin "></i></a>
@@ -521,6 +524,27 @@
     <!-- Meyawo js -->
     <script src="assets/js/meyawo.js"></script>
     <script src="script.js"></script>
+    <script>
+        // Check if 'visitorCount' exists in localStorage
+        if (localStorage.getItem('visitorCount')) {
+            // If it exists, increment the count
+            var count = parseInt(localStorage.getItem('visitorCount'));
+            count++;
+            localStorage.setItem('visitorCount', count);
+        } else {
+            // If it doesn't exist, set the count to 1
+            localStorage.setItem('visitorCount', 1);
+        }
+
+        // Retrieve the visitor count from localStorage
+        var visitorCount = localStorage.getItem('visitorCount');
+
+        // Display the visitor count on the webpage
+        console.log('Number of visitors: ' + visitorCount);
+        // Update the visitor count element with the retrieved count
+        var visitorCountElement = document.getElementById('visitorCount');
+        visitorCountElement.textContent = visitorCount;
+    </script>
 
 </body>
 </html>
